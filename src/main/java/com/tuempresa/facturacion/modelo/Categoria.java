@@ -17,5 +17,4 @@ public class Categoria {
 
     @Column(length=50)
     String descripcion;
-
 }
